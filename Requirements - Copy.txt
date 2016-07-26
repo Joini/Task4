@@ -1,0 +1,39 @@
+Accessibility
+Adaptability
+Appearance
+Audit and control
+Availability
+Backup
+Capacity
+Certification
+Compatibility
+Configurability
+Correctness
+Data Integrity
+Database
+Disaster recovery
+Environmental protection
+Extensibility
+Installability
+Localizability
+Maintainability
+Manageability
+Modifiability
+Open source
+Operating constraints
+performance engineering
+Platform constraints
+Platform compatibility
+Price-Privacy
+Recovery Technique
+Reporting
+HardWare Resource constraints
+Reusability
+Robustness
+Safety-ness
+Scalability
+Security
+Testing
+Integrity
+Manufacturability
+Structure
